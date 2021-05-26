@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm_crud_idea:war">
+    <output-path>$PROJECT_DIR$/ssm_crud_idea/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssm_crud_idea</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssm_crud_idea-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ssm_crud_idea:war exploded" />
+    </root>
+  </artifact>
+</component>
